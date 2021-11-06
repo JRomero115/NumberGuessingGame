@@ -40,7 +40,7 @@ Now you should see a directory named homework with the files:
 3. Compile the program by:
 
         $ ls
-        $ g++ -o phaseI main.cpp ActorActress.cpp Database.cpp Pictures.cpp
+        $ g++ -o HW2 main.cpp 
 
 4.  Run the program by:
 
